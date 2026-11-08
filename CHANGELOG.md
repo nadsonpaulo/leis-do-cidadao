@@ -1,5 +1,15 @@
 # Histórico de versões
 
+## [v1.1.0] — 2026-11-08
+
+### Alterado
+- Arquivos renomeados com o nome oficial de cada documento e o número da norma (ex.: `02. Código Civil (Lei 10.406 de 2002).pdf`).
+- "Estatuto do Idoso" passa a se chamar "Estatuto da Pessoa Idosa", conforme a Lei 14.423/2022.
+
+### Adicionado
+- Coluna "Edição do PDF" no catálogo, indicando até quando cada arquivo foi atualizado.
+- Identificação da edição da Bíblia Sagrada no resumo.
+
 ## [v1.0.0] — 2026-11-08
 
 Primeira versão do catálogo **Leis do Cidadão**.

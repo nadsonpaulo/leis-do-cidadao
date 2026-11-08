@@ -17,32 +17,34 @@ Cada documento vem acompanhado de um **resumo em linguagem simples**, para que q
 
 ## 📚 Catálogo
 
-| Nº | Documento | Norma | Tema principal |
-|:--:|---|---|---|
-| 00 | [Bíblia Sagrada](00.%20B%C3%ADblia%20Sagrada.pdf) | — | Referência cultural e religiosa |
-| 01 | [Constituição Federal](01.%20Constitui%C3%A7%C3%A3o%20Federal%20Brasileira.pdf) | CF/1988 | Direitos fundamentais e organização do Estado |
-| 02 | [Código Civil](02.%20C%C3%B3digo%20Civil.pdf) | Lei 10.406/2002 | Vida civil, contratos, família e herança |
-| 03 | [Código de Processo Civil](03.%20C%C3%B3digo%20de%20Processo%20Civil.pdf) | Lei 13.105/2015 | Como funcionam os processos na Justiça |
-| 04 | [Código Penal](04.%20C%C3%B3digo%20Penal.pdf) | Decreto-Lei 2.848/1940 | Crimes e penas |
-| 05 | [Código de Processo Penal](05.%20C%C3%B3digo%20de%20Processo%20Penal.pdf) | Decreto-Lei 3.689/1941 | Investigação e julgamento de crimes |
-| 06 | [Consolidação das Leis do Trabalho](06.%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho.pdf) | Decreto-Lei 5.452/1943 | Direitos e deveres no trabalho |
-| 07 | [Código de Defesa do Consumidor](07.%20C%C3%B3digo%20de%20Defesa%20do%20Consumidor.pdf) | Lei 8.078/1990 | Relações de consumo |
-| 08 | [Código Tributário Nacional](08.%20C%C3%B3digo%20Tribut%C3%A1rio%20Nacional.pdf) | Lei 5.172/1966 | Impostos, taxas e contribuições |
-| 09 | [Código de Trânsito Brasileiro](09.%20C%C3%B3digo%20de%20Tr%C3%A2nsito%20Brasileiro.pdf) | Lei 9.503/1997 | Regras de trânsito e habilitação |
-| 10 | [Base Nacional Comum Curricular](10.%20Base%20Nacional%20Comum%20Curricular.pdf) | BNCC (2017/2018) | O que todo estudante deve aprender |
-| 11 | [Diretrizes e Bases da Educação Nacional](11.%20Diretrizes%20da%20Educa%C3%A7%C3%A3o%20Nacional.pdf) | Lei 9.394/1996 | Organização da educação no país |
-| 12 | [Estatuto da Criança e do Adolescente](12.%20Estatuto%20da%20Crian%C3%A7a%20e%20do%20Adolescente.pdf) | Lei 8.069/1990 | Proteção integral de crianças e adolescentes |
-| 13 | [Estatuto da Pessoa Idosa](13.%20Estatuto%20do%20Idoso.pdf) | Lei 10.741/2003 | Direitos das pessoas com 60 anos ou mais |
-| 14 | [Estatuto da Pessoa com Deficiência](14.%20Estatuto%20da%20Pessoa%20com%20Defici%C3%AAncia.pdf) | Lei 13.146/2015 | Inclusão e acessibilidade |
-| 15 | [Estatuto da Igualdade Racial](15.%20Estatuto%20da%20Igualdade%20Racial.pdf) | Lei 12.288/2010 | Combate ao racismo e à discriminação |
-| 16 | [Lei Maria da Penha](16.%20Lei%20Maria%20da%20Penha.pdf) | Lei 11.340/2006 | Combate à violência contra a mulher |
+| Nº | Documento | Norma | Tema principal | Edição do PDF |
+|:--:|---|---|---|---|
+| 00 | [Bíblia Sagrada](00.%20B%C3%ADblia%20Sagrada.pdf) | — | Referência cultural e religiosa | 2015 |
+| 01 | [Constituição Federal de 1988](01.%20Constitui%C3%A7%C3%A3o%20Federal%20de%201988.pdf) | CF/1988 | Direitos fundamentais e organização do Estado | Senado, 2016 (até a EC 91/2016) |
+| 02 | [Código Civil](02.%20C%C3%B3digo%20Civil%20%28Lei%2010.406%20de%202002%29.pdf) | Lei 10.406/2002 | Vida civil, contratos, família e herança | Atualizada até out/2014 |
+| 03 | [Código de Processo Civil](03.%20C%C3%B3digo%20de%20Processo%20Civil%20%28Lei%2013.105%20de%202015%29.pdf) | Lei 13.105/2015 | Como funcionam os processos na Justiça | Atualizada até jul/2017 |
+| 04 | [Código Penal](04.%20C%C3%B3digo%20Penal%20%28Decreto-Lei%202.848%20de%201940%29.pdf) | Decreto-Lei 2.848/1940 | Crimes e penas | Atualizada até fev/2025 |
+| 05 | [Código de Processo Penal](05.%20C%C3%B3digo%20de%20Processo%20Penal%20%28Decreto-Lei%203.689%20de%201941%29.pdf) | Decreto-Lei 3.689/1941 | Investigação e julgamento de crimes | Atualizada até abr/2017 |
+| 06 | [Consolidação das Leis do Trabalho (CLT)](06.%20Consolida%C3%A7%C3%A3o%20das%20Leis%20do%20Trabalho%20-%20CLT%20%28Decreto-Lei%205.452%20de%201943%29.pdf) | Decreto-Lei 5.452/1943 | Direitos e deveres no trabalho | Atualizada até dez/2017 |
+| 07 | [Código de Defesa do Consumidor](07.%20C%C3%B3digo%20de%20Defesa%20do%20Consumidor%20%28Lei%208.078%20de%201990%29.pdf) | Lei 8.078/1990 | Relações de consumo | Atualizada até set/2017 |
+| 08 | [Código Tributário Nacional](08.%20C%C3%B3digo%20Tribut%C3%A1rio%20Nacional%20%28Lei%205.172%20de%201966%29.pdf) | Lei 5.172/1966 | Impostos, taxas e contribuições | Atualizada até ago/2012 |
+| 09 | [Código de Trânsito Brasileiro](09.%20C%C3%B3digo%20de%20Tr%C3%A2nsito%20Brasileiro%20%28Lei%209.503%20de%201997%29.pdf) | Lei 9.503/1997 | Regras de trânsito e habilitação | Atualizada até jun/2008 |
+| 10 | [Base Nacional Comum Curricular (BNCC)](10.%20Base%20Nacional%20Comum%20Curricular%20-%20BNCC.pdf) | BNCC | O que todo estudante deve aprender | Versão final, 2018 |
+| 11 | [Lei de Diretrizes e Bases da Educação Nacional (LDB)](11.%20Lei%20de%20Diretrizes%20e%20Bases%20da%20Educa%C3%A7%C3%A3o%20Nacional%20-%20LDB%20%28Lei%209.394%20de%201996%29.pdf) | Lei 9.394/1996 | Organização da educação no país | Atualizada até ago/2021 |
+| 12 | [Estatuto da Criança e do Adolescente (ECA)](12.%20Estatuto%20da%20Crian%C3%A7a%20e%20do%20Adolescente%20-%20ECA%20%28Lei%208.069%20de%201990%29.pdf) | Lei 8.069/1990 | Proteção integral de crianças e adolescentes | Atualizada até out/2017 |
+| 13 | [Estatuto da Pessoa Idosa](13.%20Estatuto%20da%20Pessoa%20Idosa%20%28Lei%2010.741%20de%202003%29.pdf) | Lei 10.741/2003 | Direitos das pessoas com 60 anos ou mais | Atualizada até jul/2021 |
+| 14 | [Estatuto da Pessoa com Deficiência](14.%20Estatuto%20da%20Pessoa%20com%20Defici%C3%AAncia%20%28Lei%2013.146%20de%202015%29.pdf) | Lei 13.146/2015 | Inclusão e acessibilidade | Câmara, 2015 (texto original) |
+| 15 | [Estatuto da Igualdade Racial](15.%20Estatuto%20da%20Igualdade%20Racial%20%28Lei%2012.288%20de%202010%29.pdf) | Lei 12.288/2010 | Combate ao racismo e à discriminação | Atualizada até jul/2025 |
+| 16 | [Lei Maria da Penha](16.%20Lei%20Maria%20da%20Penha%20%28Lei%2011.340%20de%202006%29.pdf) | Lei 11.340/2006 | Combate à violência contra a mulher | Atualizada até mar/2011 |
+
+> 📅 A coluna **Edição do PDF** indica até quando cada arquivo foi atualizado. Alterações posteriores a essa data **não constam** no documento — confira sempre a redação vigente no [portal do Planalto](https://www4.planalto.gov.br/legislacao).
 
 ---
 
 ## 📝 Resumos
 
 ### 00. Bíblia Sagrada
-Livro sagrado do cristianismo, incluído no catálogo por sua importância histórica, cultural e moral na formação da sociedade brasileira. Não é uma norma jurídica. Vale lembrar que a Constituição garante a **liberdade de consciência e de crença** e o livre exercício de todos os cultos religiosos (CF, art. 5º, VI), e que o Estado brasileiro é laico.
+Livro sagrado do cristianismo (Antigo e Novo Testamentos), na edição em português publicada por A Igreja de Jesus Cristo dos Santos dos Últimos Dias, com notas e referências cruzadas. Incluído no catálogo por sua importância histórica, cultural e moral na formação da sociedade brasileira. Não é uma norma jurídica. Vale lembrar que a Constituição garante a **liberdade de consciência e de crença** e o livre exercício de todos os cultos religiosos (CF, art. 5º, VI), e que o Estado brasileiro é laico.
 
 ### 01. Constituição Federal de 1988
 A **lei mais importante do país**: nenhuma outra norma pode contrariá-la. Promulgada em 5 de outubro de 1988, ficou conhecida como "Constituição Cidadã".
